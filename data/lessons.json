@@ -1,0 +1,149 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Greetings",
+      "titleAr": "التحيات",
+      "icon": "👋",
+      "description": "Learn to greet people formally and informally",
+      "descriptionAr": "تعلم التحية بشكل رسمي وغير رسمي",
+      "vocabulary": [
+        {"german": "Hallo", "arabic": "مرحبا", "pronunciation": "HAH-lo", "formal": false},
+        {"german": "Guten Tag", "arabic": "مساء الخير", "pronunciation": "GOO-ten TAHK", "formal": true},
+        {"german": "Guten Morgen", "arabic": "صباح الخير", "pronunciation": "GOO-ten MOR-gen", "formal": true},
+        {"german": "Guten Abend", "arabic": "مساء الخير", "pronunciation": "GOO-ten AH-bent", "formal": true},
+        {"german": "Gute Nacht", "arabic": "تصبح على خير", "pronunciation": "GOO-te NAKHT", "formal": true},
+        {"german": "Auf Wiedersehen", "arabic": "مع السلامة", "pronunciation": "owf VEE-der-zay-en", "formal": true},
+        {"german": "Tschüss", "arabic": "باي", "pronunciation": "CHEWS", "formal": false},
+        {"german": "Wie geht es Ihnen?", "arabic": "كيف حالك؟ (رسمي)", "pronunciation": "vee gayt es EE-nen", "formal": true},
+        {"german": "Wie geht's?", "arabic": "كيف حالك؟", "pronunciation": "vee gayts", "formal": false},
+        {"german": "Mir geht es gut", "arabic": "أنا بخير", "pronunciation": "meer gayt es goot", "formal": true},
+        {"german": "Danke", "arabic": "شكرا", "pronunciation": "DAHN-ke", "formal": true},
+        {"german": "Bitte", "arabic": "من فضلك / عفوا", "pronunciation": "BIT-te", "formal": true},
+        {"german": "Entschuldigung", "arabic": "عذرا", "pronunciation": "ent-SHOOL-di-goong", "formal": true},
+        {"german": "Ja", "arabic": "نعم", "pronunciation": "yah", "formal": true},
+        {"german": "Nein", "arabic": "لا", "pronunciation": "nine", "formal": true}
+      ],
+      "slang": [
+        {"german": "Was geht?", "arabic": "شو الأخبار؟", "usage": "Casual greeting among friends"},
+        {"german": "Digga", "arabic": "يا صاحبي", "usage": "Bro/Dude - very informal"},
+        {"german": "Alter", "arabic": "يا زلمة", "usage": "Dude - very informal"},
+        {"german": "Läuft bei dir?", "arabic": "كيفك؟", "usage": "How's it going?"},
+        {"german": "Moin", "arabic": "صباح الخير (شمال ألمانيا)", "usage": "Northern German greeting"},
+        {"german": "Servus", "arabic": "مرحبا (جنوب ألمانيا)", "usage": "Southern German/Austrian greeting"}
+      ],
+      "grammar": {
+        "topic": "Personal Pronouns & Verb 'sein'",
+        "topicAr": "الضمائر الشخصية وفعل يكون",
+        "explanation": "In German, the verb 'sein' (to be) changes based on the subject.",
+        "explanationAr": "في الألمانية، فعل 'sein' (يكون) يتغير حسب الفاعل.",
+        "conjugation": [
+          {"pronoun": "ich", "verb": "bin", "meaning": "أنا"},
+          {"pronoun": "du", "verb": "bist", "meaning": "أنت"},
+          {"pronoun": "er/sie/es", "verb": "ist", "meaning": "هو/هي/هو (محايد)"},
+          {"pronoun": "wir", "verb": "sind", "meaning": "نحن"},
+          {"pronoun": "ihr", "verb": "seid", "meaning": "أنتم"},
+          {"pronoun": "sie/Sie", "verb": "sind", "meaning": "هم/أنت (رسمي)"}
+        ]
+      },
+      "comedy": {
+        "joke1": "Why did the German student fail the greeting test? Because he said 'Guten Tag' at midnight! 😂",
+        "joke1Ar": "ليش الطالب الألماني رسب بامتحان التحيات؟ لأنه قال 'مساء الخير' بنص الليل! 😂",
+        "joke2": "German greetings are like a workout: Guten MORgen, Guten TAG, Guten Abend... by night you're exhausted! 💪",
+        "joke2Ar": "التحيات الألمانية مثل التمرين: صباح الخير، مساء الخير، مساء الخير... بالليل بتكون منهك! 💪"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Numbers",
+      "titleAr": "الأرقام",
+      "icon": "🔢",
+      "description": "Master numbers from 0 to 100 and beyond",
+      "descriptionAr": "أتقن الأرقام من 0 إلى 100 وما بعدها",
+      "vocabulary": [
+        {"german": "null", "arabic": "صفر", "value": 0},
+        {"german": "eins", "arabic": "واحد", "value": 1},
+        {"german": "zwei", "arabic": "اثنان", "value": 2},
+        {"german": "drei", "arabic": "ثلاثة", "value": 3},
+        {"german": "vier", "arabic": "أربعة", "value": 4},
+        {"german": "fünf", "arabic": "خمسة", "value": 5},
+        {"german": "sechs", "arabic": "ستة", "value": 6},
+        {"german": "sieben", "arabic": "سبعة", "value": 7},
+        {"german": "acht", "arabic": "ثمانية", "value": 8},
+        {"german": "neun", "arabic": "تسعة", "value": 9},
+        {"german": "zehn", "arabic": "عشرة", "value": 10},
+        {"german": "elf", "arabic": "أحد عشر", "value": 11},
+        {"german": "zwölf", "arabic": "اثنا عشر", "value": 12},
+        {"german": "dreizehn", "arabic": "ثلاثة عشر", "value": 13},
+        {"german": "zwanzig", "arabic": "عشرون", "value": 20},
+        {"german": "einundzwanzig", "arabic": "واحد وعشرون", "value": 21},
+        {"german": "dreißig", "arabic": "ثلاثون", "value": 30},
+        {"german": "vierzig", "arabic": "أربعون", "value": 40},
+        {"german": "fünfzig", "arabic": "خمسون", "value": 50},
+        {"german": "hundert", "arabic": "مئة", "value": 100}
+      ],
+      "grammar": {
+        "topic": "Number Formation",
+        "topicAr": "تكوين الأرقام",
+        "explanation": "German numbers 21-99 are formed backwards: 'one-and-twenty' (einundzwanzig)",
+        "explanationAr": "الأرقام الألمانية من 21-99 تتكون بالعكس: 'واحد وعشرون' (einundzwanzig)"
+      },
+      "comedy": {
+        "joke1": "German numbers are like reading a book backwards. 25 = fünfundzwanzig = five-and-twenty. Thanks Germany! 🙃",
+        "joke1Ar": "الأرقام الألمانية مثل قراءة كتاب بالعكس. 25 = خمسة وعشرون. شكراً ألمانيا! 🙃"
+      }
+    }
+  ],
+  "exercises": {
+    "reading": {
+      "title": "Reading Comprehension",
+      "titleAr": "فهم القراءة",
+      "icon": "📖",
+      "count": 50
+    },
+    "writing": {
+      "title": "Writing Practice",
+      "titleAr": "تمارين الكتابة",
+      "icon": "✍️",
+      "count": 40
+    },
+    "listening": {
+      "title": "Listening Skills",
+      "titleAr": "مهارات الاستماع",
+      "icon": "🎧",
+      "count": 30
+    },
+    "speaking": {
+      "title": "Speaking Practice",
+      "titleAr": "تمارين المحادثة",
+      "icon": "🗣️",
+      "count": 35
+    }
+  },
+  "features": {
+    "formal": {
+      "name": "Formal German",
+      "nameAr": "الألمانية الرسمية",
+      "description": "Professional and polite language for work and official situations",
+      "icon": "👔"
+    },
+    "informal": {
+      "name": "Informal German",
+      "nameAr": "الألمانية غير الرسمية",
+      "description": "Casual language for friends and everyday situations",
+      "icon": "😊"
+    },
+    "slang": {
+      "name": "Slang/Street German",
+      "nameAr": "الألمانية العامية",
+      "description": "Real street language and expressions used by young Germans",
+      "icon": "🔥"
+    },
+    "comedy": {
+      "name": "Comedy Mode",
+      "nameAr": "وضع الكوميديا",
+      "description": "Learn through laughter with hilarious examples and jokes",
+      "icon": "😂"
+    }
+  }
+}
